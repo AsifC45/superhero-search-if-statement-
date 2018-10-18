@@ -1,2 +1,2 @@
-# superhero-search-if-statement-
-If statement project
+# superhero-lookup
+Start Code for Super Hero Lookup Lesson
